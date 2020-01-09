@@ -8,3 +8,5 @@ def map_to_negativize(source_array)
   negativized_array
 end
 
+def 
+end
