@@ -28,5 +28,6 @@ def map_to_double(source_array)
   doubled_array
 end
 
-def
+def map_to_square(source_array)
+  squared_array << source_array[i] 
 end
